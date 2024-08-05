@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @VaibhavCodeCraftsman
 - 👀 I’m interested in web development
-- PYTHON PROGRAMING
-  
+
 - 🌱 I’m currently learning BCA SCIENCE 
   ..
 
